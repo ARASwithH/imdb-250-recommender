@@ -28,17 +28,14 @@ This project scrapes plot summaries of the Top 250 movies on IMDb using Beautifu
 5. Return 5 most similar IMDb Top 250 movies
 
 ## 🚀 Getting Started
-1. Clone the repo:
-   git clone https://github.com/ARASwithH/scrape-and-insight.git
-   cd scrape-and-insight
 
-2. Install dependencies:
+1. Install dependencies:
    pip install beautifulsoup4 nltk numpy
 
-3. Run the program:
+2. Run the program:
    python main.py
 
-4. Input a plot summary when prompted to get movie recommendations.
+3. Input a plot summary when prompted to get movie recommendations.
 
 ## 📂 Project Structure
 - dirty_datas.csv       # Scraped data: {title: plot summary}
