@@ -1,6 +1,5 @@
 # 🎬 IMDb 250 Movie Recommender Based on Plot Summaries
 
-## 📌 Project Overview
 This project scrapes plot summaries of the Top 250 movies on IMDb using BeautifulSoup4, processes the text data using NLP techniques, and builds a content-based recommendation engine. By entering a plot summary, the system returns the 5 most similar movies from the IMDb Top 250 using TF-IDF vectorization and cosine similarity.
 
 ## 🔍 Features
