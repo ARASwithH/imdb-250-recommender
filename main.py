@@ -1,6 +1,6 @@
-import csv
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.neighbors import KNeighborsClassifier
+import csv
 
 # opening file
 with open('dirty_datas.csv', 'r') as read_obj:
